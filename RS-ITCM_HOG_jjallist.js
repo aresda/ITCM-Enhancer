@@ -1,9 +1,7 @@
-//¬©πÊ ∏Ò∑œ
+//Ïß§Î∞© Î™©Î°ù
 var showJjalPer = 0.75;
 var jjalHeight = '100px';
 var loadingImg = 'http://i.imgur.com/eIjGVnZ.gif';
-
-//preloadImg.onload = function(){ console.log('preload complete'); };
 var nothingGifURL = [
 	'http://i.imgur.com/2DRk8tX.gif',
 	'http://i.imgur.com/4WbHtzo.gif',
@@ -48,7 +46,7 @@ var nothingGifURL = [
 	'http://i.imgur.com/KgbOs4u.gif',
 	'http://itcm.co.kr/files/attach/images/809/709/476/003/21a8670a6f43c79d2dcd368941cbe17f.gif',
 	'http://itcm.co.kr/files/attach/images/809/709/476/003/21a8670a6f43c79d2dcd368941cbe17f.gif',
-	'http://itcm.co.kr/files/attach/images/809/317/482/003/9247e8f1d1d6b839dee1a7ef048db19a.gif', //43 ∂»πŸ∑Œ º≠∂Û ≥…∫ø
+	'http://itcm.co.kr/files/attach/images/809/317/482/003/9247e8f1d1d6b839dee1a7ef048db19a.gif', //43 ÎòëÎ∞îÎ°ú ÏÑúÎùº ÎÉ•Î¥á
 	'http://i.imgur.com/yY0U4qw.gif',
 	'http://i.imgur.com/UV39jZN.jpg',
 	'http://i.imgur.com/qxs38J1.gif',
