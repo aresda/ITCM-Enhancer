@@ -1,8 +1,8 @@
 //짤방 목록
-var showJjalPer = 0.75;
-var jjalHeight = '100px';
+var showJjalPer = 0.75; //percetage that shows
+var jjalHeight = '100px'; //default height
 
-var loadingImg = 'http://i.imgur.com/eIjGVnZ.gif';
+var loadingImg = 'http://i.imgur.com/eIjGVnZ.gif'; // Loading Image
 
 var nothingGifURL = [
 	'http://i.imgur.com/2DRk8tX.gif',
